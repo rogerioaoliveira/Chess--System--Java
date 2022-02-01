@@ -1,7 +1,7 @@
-package model.chess;
+package chess;
 
-import model.boardgame.Board;
-import model.boardgame.Piece;
+import boardgame.Board;
+import boardgame.Piece;
 
 public class ChessPiece extends Piece {
 	

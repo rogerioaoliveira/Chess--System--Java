@@ -1,6 +1,6 @@
 package Aplication;
 
-import model.chess.ChessMatch;
+import chess.ChessMatch;
 
 public class Program {
 

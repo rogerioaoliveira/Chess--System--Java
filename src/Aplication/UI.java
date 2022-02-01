@@ -1,6 +1,6 @@
 package Aplication;
 
-import model.chess.ChessPiece;
+import chess.ChessPiece;
 
 public class UI {
 
