@@ -1,4 +1,4 @@
-package aplication;
+package application;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;
@@ -13,7 +13,7 @@ import chess.ChessPosition;
 public class Program {
 
 	public static void main(String[] args) {
-
+		
 		Scanner sc = new Scanner(System.in);
 		ChessMatch chessMatch = new ChessMatch();
 		List<ChessPiece> captured = new ArrayList<>();

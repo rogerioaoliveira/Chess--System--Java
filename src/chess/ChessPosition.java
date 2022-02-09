@@ -3,7 +3,7 @@ package chess;
 import boardgame.Position;
 
 public class ChessPosition {
-
+	
 	private char column;
 	private int row;
 	
@@ -35,5 +35,4 @@ public class ChessPosition {
 	public String toString() {
 		return "" + column + row;
 	}
-	
 }
